@@ -1,0 +1,488 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A poem upon the conclusion of the peace of Europe, and His Majesty's happy return by Haestrect James ...</title>
+            <author>James, Haestrect.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46623</idno>
+            <idno type="STC">Wing J425</idno>
+            <idno type="STC">ESTC R16866</idno>
+            <idno type="EEBO-CITATION">11931171</idno>
+            <idno type="OCLC">ocm 11931171</idno>
+            <idno type="VID">51126</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46623)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51126)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 816:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A poem upon the conclusion of the peace of Europe, and His Majesty's happy return by Haestrect James ...</title>
+                  <author>James, Haestrect.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W. Onley :</publisher>
+                  <publisher>and are to be sold by E. Whitlock ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+                  <note>Poem welcoming William of Orange as King of England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51126:1" rendition="simple:additions"/>
+            <p>A POEM UPON THE CONCLUSION OF THE PEACE of EUROPE AND <hi>His MAJESTY's Happy Return.</hi>
+            </p>
+            <p>By HAESTRECT JAMES, Gent.</p>
+            <q>Nunquam ſera est ad bonos mores <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</q>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>W. Onley,</hi> and are to be Sold by <hi>E. Whitlock,</hi> in <hi>Amen-corner,</hi> near <hi>Stationers-hall.</hi> MDCXCVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:51126:2"/>
+            <pb n="3" facs="tcp:51126:2"/>
+            <head>A POEM UPON THE CONCLUSION OF THE PEACE of EUROPE.</head>
+            <lg>
+               <l>WHEN Great <hi>Auguſtus</hi> the World's <hi>Empire</hi> ſway'd,</l>
+               <l>Prompted by Duty, all Mankind obey'd;</l>
+               <l>Happy! thirce Happy! They no Grumbler knew,</l>
+               <l>But each paid <hi>Caeſar</hi> what was <hi>Caeſar</hi>'s Due:</l>
+               <l>Each dwelt contented under his own Vine,</l>
+               <l>Free from the Danger of a baſe Deſigne.</l>
+               <l>No bold Aſſaſſines <hi>Monarchy</hi> to Curb,</l>
+               <l>
+                  <hi>Poyſon,</hi> nor <hi>Dagger,</hi> did Mankind diſtrub;</l>
+               <l>All kept the <hi>Laws,</hi> each to his <hi>City</hi> went,</l>
+               <l>When noble <hi>Caeſar</hi> for his <hi>Tribute</hi> ſent:</l>
+               <l>After each other chearfully they preſt,</l>
+               <l>And prov'd that they deſerv'd to be at Reſt.</l>
+               <l>
+                  <hi>Peace</hi> was a Bleſſing which they rarely knew;</l>
+               <l>Nor did they grudge the Paying for it too:</l>
+               <l>Not a mean Soul wou'd from their Taxing run,</l>
+               <l>Or cry'd, That in their Wealth they were undone.</l>
+               <l>
+                  <hi>Peace</hi> made <hi>Arts</hi> flouriſh; then young <hi>Ovid</hi> writ,</l>
+               <l>And Charm'd fair <hi>Julia</hi> with his ſprightly <hi>Wit;</hi>
+               </l>
+               <pb n="4" facs="tcp:51126:3"/>
+               <l>The <hi>Mantuan Poet</hi> then was in Eſteem,</l>
+               <l>And <hi>Caeſar</hi>'s Bounty ſpoke a Worth in him;</l>
+               <l>Then for <hi>Reward,</hi> was only to be Brave,</l>
+               <l>And none contriv'd their Country to Enſlave.</l>
+            </lg>
+            <lg>
+               <l>Freſh Dawnings of thoſe happy Days appear,</l>
+               <l>And <hi>Janus</hi> cloſes up this peaceful Year;</l>
+               <l>
+                  <hi>Naſſaw</hi> the <hi>Brave</hi> proclaims it ſhall be Peace,</l>
+               <l>And the Grand <hi>Lewis</hi> may his Boaſting ceaſe.</l>
+            </lg>
+            <lg>
+               <l>Welcome Great WILLIAM from the <hi>Belgick</hi> Shore!</l>
+               <l>Stay ever here, and truſt the Seas no more;</l>
+               <l>Truſt not to Seas, nor to the faithleſs Wind,</l>
+               <l>But truſt to faithful Subjects that are kind:</l>
+               <l>Aſſume that Power which you ſo juſtly Claim;</l>
+               <l>Forgive your Foes, and let them bluſh for Shame:</l>
+               <l>To have you Govern, now muſt be their Pride,</l>
+               <l>And cloſe ſuch Breaches Folly once made wide:</l>
+               <l>Now Hand in Hand, each will ſalute his Friend,</l>
+               <l>And only in the <hi>Loyal</hi> Part contend:</l>
+               <l>In the ſame Intereſt of one <hi>Monarch</hi> hold,</l>
+               <l>Like the two Famous <hi>Tribes</hi> we read of old.</l>
+            </lg>
+            <lg>
+               <l>Could I here ſing thoſe Wonders have been wrought,</l>
+               <l>With the ſame <hi>Glory</hi> which our <hi>Hero</hi> fought:</l>
+               <l>Could I deſcribe thoſe Dangers he has run,</l>
+               <l>With that Applauſe in which the Deed was done;</l>
+               <l>With all the Circumſtance of Time and Place,</l>
+               <l>Which did the Mighty Hero's Triumph Grace:</l>
+               <l>Then would my Pen immortal be in Fame,</l>
+               <l>Like His, who did the <hi>Trojan</hi> War proclaim.</l>
+            </lg>
+            <lg>
+               <l>Thoſe <hi>Graecian Cheifs</hi> who got themſelves Renown,</l>
+               <l>In Ten Years ſtorming of one ſingle Town;</l>
+               <l>
+                  <hi>Hybernia</hi> by thy Arms was quickly won.</l>
+               <l>
+                  <hi>Scomberg</hi> fought well, but fail'd of that Succeſs,</l>
+               <l>Which did the Arms of <hi>Mighty Naſſaw</hi> Bleſs:</l>
+               <l>And whilſt the rapid <hi>Boyne</hi> retains a Force,</l>
+               <l>To Actions paſt, Hiſtorians have Recourſe;</l>
+               <l>Will to ſucceeding Ages tell thy Praiſe,</l>
+               <l>And in Eternal Glory Triumphs raiſe.</l>
+               <pb n="5" facs="tcp:51126:3"/>
+               <l>The Bullet at the <hi>Boyne</hi> with gentle Touch,</l>
+               <l>Convinc'd the World your Danger could Approach:</l>
+               <l>Made your <hi>Friends</hi> dread your Bravery and Skill;</l>
+               <l>Forc'd <hi>Foes</hi> to vouch You Great againſt their Will.</l>
+            </lg>
+            <lg>
+               <l>While <hi>London-derry</hi> ſtands, her Walls will be</l>
+               <l>An Inſtance of Religious Piety:</l>
+               <l>Who in a brave Reſiſtance ſtill were <hi>True,</hi>
+               </l>
+               <l>And had the Mighty <hi>Naſſaw</hi>'s <hi>Soul</hi> in View;</l>
+               <l>With that all Oppoſition was in vain;</l>
+               <l>They reap the Profit of Your happy Reign.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Athlone</hi> will in Fame's Annals find a Place,</l>
+               <l>Whilſt Time remains, or Valour is a Grace:</l>
+               <l>Poſterity which is as yet unborn,</l>
+               <l>Will with a Noble Emulation ſcorn</l>
+               <l>To be Out-brav'd by that which here was done:</l>
+               <l>And when they talk of Storming of a <hi>Town,</hi>
+               </l>
+               <l>Will cry, The fierceſt Storming was <hi>Athlone.</hi>
+               </l>
+               <l>Honour'd by Him, who does your Title bear,</l>
+               <l>Who of <hi>Hibernia</hi>'s Fate took ſpecial Care.</l>
+            </lg>
+            <lg>
+               <l>To ſtately <hi>Lymeric</hi> we next advance,</l>
+               <l>With Ramparts which defy'd the Power of Chance:</l>
+               <l>Led by His Arms, on whom Succeſs doth wait,</l>
+               <l>Leaſt by Delay they meet a Storming Fate,</l>
+               <l>Gladly receive the <hi>Victor</hi> at her Gate:</l>
+               <l>The <hi>Gallick</hi> Power in Modeſty retire,</l>
+               <l>And with a ſecret Bluſh his Worth admire.</l>
+            </lg>
+            <lg>
+               <l>A Theme ſo vaſt might to a Volume ſwell;</l>
+               <l>Here I might ſing of <hi>Cork</hi> where <hi>Grafton</hi> fell;</l>
+               <l>That Noble Youth who made his Valour known,</l>
+               <l>Who ſpoke the Royal Father in a Son;</l>
+               <l>By a too early Fate here bravely dy'd,</l>
+               <l>The Seaman's Darling, and his Country's Pride.</l>
+               <l>Born to relieve, and ſuccour the Diſtreſt,</l>
+               <l>And in Fame's Volume plac'd among the Beſt.</l>
+            </lg>
+            <lg>
+               <l>Of <hi>Galloway,</hi> and Towns of leſſer Name,</l>
+               <l>I cannot Treat, tho' they all merit Fame;</l>
+               <pb n="6" facs="tcp:51126:4"/>
+               <l>But to new Matters muſt withdraw my Pen,</l>
+               <l>To Treat of Countries on the diſtant Main.</l>
+            </lg>
+            <lg>
+               <l>The Battle of <hi>Seneff</hi> ſo early Fought,</l>
+               <l>So full of Glory, cannot be forgot:</l>
+               <l>No, nor yet <hi>Mons</hi> whoſe lofty Turrets ſtand,</l>
+               <l>To Juſtifie the Proweſs of your Hand;</l>
+               <l>
+                  <hi>Aeth, Charleroy,</hi> the Monarchy of <hi>Spain,</hi>
+               </l>
+               <l>Are well ſecur'd, whilſt here in <hi>Peace</hi> you <hi>Reign;</hi>
+               </l>
+               <l>Mean Profit was the leaſt of all your Care,</l>
+               <l>Your's was the Honour, They your <hi>Bounty</hi> ſhare:</l>
+               <l>'Tis this makes diſtant Countries ſound your Fame,</l>
+               <l>And court the Place from whence ſuch Glory came:</l>
+               <l>Were the Place doubtful, whence you firſt took Birth,</l>
+               <l>Each Nation would contend for ſo much Earth:</l>
+               <l>Not to ſev'n <hi>Cities</hi> would themſelves confine,</l>
+               <l>In this each to Ambition would incline.</l>
+            </lg>
+            <lg>
+               <l>Is the Place Happy then, where you was Born,</l>
+               <l>More Happy <hi>Albion,</hi> you her Crown adorn:</l>
+               <l>In Juſtice ſway the Scepter in your Hand,</l>
+               <l>With <hi>Peace</hi> bring <hi>Plenty</hi> to this fruitful Land.</l>
+               <l>Make Commerce free, our former Trade reſtore,</l>
+               <l>Like the laſt <hi>Teudor</hi> who ſuch Honour bore,</l>
+               <l>And Rul'd, no Monarch Rul'd ſo well before;</l>
+               <l>She made Aſpiring <hi>Spain</hi> with Shame confeſs,</l>
+               <l>Their Strength was more, but yet their Courage leſs;</l>
+               <l>And whilſt the Fort of <hi>Tilbury</hi> ſhall laſt,</l>
+               <l>Succeeding Times will tell what here has paſt.</l>
+               <l>She liv'd to ſee the Potent <hi>Spaniard</hi> Rage,</l>
+               <l>And dy'd the Glory of the latter Age.</l>
+            </lg>
+            <lg>
+               <l>GREAT SIR!</l>
+               <l>With Fam'd <hi>Eliza</hi>'s <hi>Sceptre</hi> in your Hand,</l>
+               <l>Your <hi>Foes</hi> you quell, and all your <hi>Friends</hi> command:</l>
+               <l>A Sceptre made the<note n="*" place="margin">Sextus Quintus.</note> 
+                  <hi>Roman Pontiff</hi> know,</l>
+               <l>That She cou'd conſecrated Fleets o'rethrow.</l>
+            </lg>
+            <lg>
+               <l>Now as the laſt revolving Year is ſpent,</l>
+               <l>And Peace brought home, which gives Mankind Content;</l>
+               <pb n="7" facs="tcp:51126:4"/>
+               <l>So in the Croud of thoſe that do Addreſs,</l>
+               <l>Pardon my Zeal, let Me my Joy expreſs,</l>
+               <l>Duty commands, nor Inclination leſs.</l>
+               <l>But who can <hi>Trophies</hi> to ſuch Honour Raiſe,</l>
+               <l>Where <hi>Merit</hi> is above the Power to <hi>Praiſe!</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Who of <hi>Namure,</hi> in lofty Strains can ſing,</l>
+               <l>In Strains like <hi>Homer,</hi> with his Thoughts on Wing;</l>
+               <l>Can e'ry Action of his Soul employ,</l>
+               <l>Like Him who ſweetly ſung the Siege of <hi>Troy.</hi>
+               </l>
+               <l>He, with Advantage to that glorious Deed,</l>
+               <l>May in due Numbers write, and may ſucceed.</l>
+               <l>Pourtray the Merit of that glorious Day,</l>
+               <l>In which <hi>France</hi> gaz'd to ſee our Cannon Play.</l>
+               <l>To See! And only See! Whilſt looking on,</l>
+               <l>The daring <hi>Villeroy</hi> with <hi>French Battoon,</hi>
+               </l>
+               <l>Retires in Rage, and quits the ſtately <hi>Town.</hi>
+               </l>
+               <l>
+                  <hi>Steenkirk</hi> would be a Subject fit to write,</l>
+               <l>For him who draws his Pen as you can fight.</l>
+            </lg>
+            <lg>
+               <l>Yet ſince <hi>Old Bards</hi> will ſilent be in ſpight,</l>
+               <l>To have new Starters Shipwrack when they write:</l>
+               <l>May they purſue their Obſtinacy ſtill,</l>
+               <l>And when they next would write, want Power, not Will:</l>
+               <l>Whilſt I, the Mighty <hi>Naſſaw</hi>'s Worth proclaim,</l>
+               <l>With Zeal; (but yet in Words beneath his Fame.)</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Grumblers</hi> will own it adds unto your Pride,</l>
+               <l>To gain the Power of <hi>France</hi> unto your ſide:</l>
+               <l>That <hi>Darling Succourer</hi> of <hi>Kings</hi> Diſtreſt;</l>
+               <l>As Great, as Wiſe, he knew which Cauſe was beſt,</l>
+               <l>And turn'd a certain <hi>Title</hi> to a Jeſt:</l>
+               <l>
+                  <hi>Towns</hi> got by former <hi>Arts</hi> he will reſtore,</l>
+               <l>And plights his <hi>Faith</hi> to do ſuch things no more.</l>
+               <l>He! He who made the trembling World to ſtart,</l>
+               <l>Takes the ſame Int'reſt, is one Voice, one Heart:</l>
+               <l>Juſtice requires that we ſhould Reaſon do,</l>
+               <l>Boaſt of Reſpect, which diſtant <hi>Monarchs</hi> ſhow.</l>
+               <l>
+                  <hi>Monarchs</hi> with <hi>Empires</hi> vaſt as is the Mind,</l>
+               <l>Court his high Favour, tempt him to be Kind;</l>
+               <l>Proffer their Country's Wealth, and Trade for Ours,</l>
+               <l>Theſe are the Bleſſings <hi>Peace</hi> upon Us ſhow'rs:</l>
+               <pb n="8" facs="tcp:51126:5"/>
+               <l>The ſweet Effects of this we daily reap,</l>
+               <l>Our <hi>Trade</hi> we follow, and our <hi>Flocks</hi> we keep;</l>
+               <l>No Dread of Evening Wolves, or Midnight Cries,</l>
+               <l>That <hi>Foes</hi> are near, and would our <hi>Folds</hi> ſurprize;</l>
+               <l>Whilſt we remain the <hi>Sovereign</hi> of the <hi>Seas,</hi>
+               </l>
+               <l>None ſure will rudely covet to diſpleaſe;</l>
+               <l>For when our Safety on our Strength depends,</l>
+               <l>Reaſon ſuggeſts that all of Courſe are Friends.</l>
+            </lg>
+            <lg>
+               <l>On then, Great PRINCE, and with that Mildneſs <hi>Rule,</hi>
+               </l>
+               <l>As does beſt ſuit the Greatneſs of your <hi>Soul;</hi>
+               </l>
+               <l>Inſtead of Storming <hi>Towns,</hi> take Hearts by Storm,</l>
+               <l>And in each Breaſt of Worth an Empire form:</l>
+               <l>Teach us to value what the World admires,</l>
+               <l>Teach Virtue ſuch as noble Breaſts inſpires;</l>
+               <l>
+                  <hi>Greatneſs</hi> and <hi>Goodneſs</hi> when they ſtand ally'd,</l>
+               <l>In <hi>Juſtice</hi> will the Helm of <hi>Empire</hi> guide;</l>
+               <l>All diſagreeing Parties will unite,</l>
+               <l>And for your <hi>Safety</hi> bravely <hi>Draw</hi> and <hi>Fight;</hi>
+               </l>
+               <l>For you have gain'd a Conqueſt on each Heart,</l>
+               <l>
+                  <hi>Cowards</hi> will ſtrive to act the Hero's Part;</l>
+               <l>Will court Occaſion to expreſs their Zeal,</l>
+               <l>In Aiding of a <hi>Prince</hi> they love ſo well,</l>
+            </lg>
+            <lg>
+               <l>But if it Fate,</l>
+               <l>That ſome his Generoſity abuſe,</l>
+               <l>And his mild Conduct baſely do miſuſe:</l>
+               <l>Let them the Torture of Malignants bear,</l>
+               <l>And let their Heads be fill'd with carping <hi>Care.</hi>
+               </l>
+               <l>The melancholy Night, tho' it be long,</l>
+               <l>Uſhers a Day, and <hi>Malice</hi> that is ſtrong;</l>
+               <l>May by kind Uſage be to <hi>Friendſhip</hi> bent,</l>
+               <l>Or come what will, yet it was bravely meant:</l>
+               <l>Offers to Love do Satisfaction bring,</l>
+               <l>And turn ſtill to the <hi>Glory</hi> of a <hi>King;</hi>
+               </l>
+               <l>If ever <hi>Clemency</hi> was deem'd a Crime,</l>
+               <l>For want of other Faults lay that on him;</l>
+               <l>But if to Fight where <hi>Tyrants</hi> do moleſt,</l>
+               <l>And to Relieve whole Kingdoms (when Oppreſt,)</l>
+               <l>Does merit <hi>Fame;</hi> then here's a Man indeed,</l>
+               <l>Others may imitate, but None exceed.</l>
+            </lg>
+            <pb n="9" facs="tcp:51126:5"/>
+            <lg>
+               <l>May your <hi>Great Name</hi> increaſe ſtill with your Years,</l>
+               <l>As your high <hi>Merit</hi> diſſipates our Fears;</l>
+               <l>May all thoſe Joys on happy <hi>Monarchs</hi> wait,</l>
+               <l>Attend to Crown the <hi>Glory</hi> of your State:</l>
+               <l>Henceforth let none the Name of Party know,</l>
+               <l>Let each forget he ever had a Foe:</l>
+               <l>Once to miſtake's an Error of the <hi>Mind,</hi>
+               </l>
+               <l>You meet a <hi>Prince</hi> that is as <hi>Just</hi> as <hi>Kind,</hi>
+               </l>
+               <l>One that delights Himſelf in doing Good,</l>
+               <l>Grieves for your Sake he ever was withſtood;</l>
+               <l>So well he Merits what he did obtain,</l>
+               <l>His <hi>Foes</hi> abroad confeſs Him fit to Reign:</l>
+               <l>All <hi>Europe</hi> owns that amply we are Bleſt,</l>
+               <l>And when they talk of <hi>Monarchs,</hi> think Him <hi>Best.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>We who now reap the Benefit of Law,</l>
+               <l>In a Great <hi>Prince</hi> (who does <hi>Protect,</hi> not Awe,)</l>
+               <l>Ought to our <hi>Benefactor</hi> to be juſt,</l>
+               <l>And (without Cauſe) not meanly to miſtruſt:</l>
+               <l>And if that Rule does now for Standard hold,</l>
+               <l>Which <hi>Solomon</hi> obſerv'd to be of old,</l>
+               <l>That there was <hi>Time to Dance and Time to Sing,</hi>
+               </l>
+               <l>Sure the Time's proper now to Praiſe the <hi>King,</hi>
+               </l>
+               <l>T' Admire thoſe Wonders which his Arms have wrought,</l>
+               <l>Wonders indeed! Which are beyond our Thought.</l>
+               <l>That he could make the <hi>Gallick Force</hi> to bend,</l>
+               <l>And the Grand <hi>Lewis</hi> ſign himſelf his <hi>Friend.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>So Great a Prince might our old <hi>Laureat</hi> raiſe,</l>
+               <l>To celebrate ſo Brave a <hi>Monarch</hi>'s Praiſe;</l>
+               <l>He who ſo long, (ſo well) the <hi>Stage</hi> ſupply'd,</l>
+               <l>Might with his fierce <hi>Almanzor</hi> change his ſide;</l>
+               <l>For as himſelf obſerves, <hi>There's no Pretenſion,</hi>
+                  <note place="margin">Pro. to Seb.</note>
+               </l>
+               <l>
+                  <hi>To argue Loſs of Wit, from Loſs of Penſion.</hi>
+               </l>
+               <l>Now with ſuch great Advantage draw thy Pen,</l>
+               <l>Retrieve that Honour which you've loſt again:</l>
+               <l>Why ſhould a ſtubborn Harſhneſs drown thy Voice,</l>
+               <l>Break Silence when you find the World rejoyce:</l>
+               <l>Your Friends you'll pleaſe at this Converſion wrought,</l>
+               <l>And own Delay in you had been a Fault:</l>
+               <pb n="10" facs="tcp:51126:6"/>
+               <l>Write in the lofty Strain of <hi>Abſolon,</hi>
+               </l>
+               <l>And in thoſe Numbers you make <hi>Virgil</hi> run:</l>
+               <l>Then will his Actions bloſſom in the Duſt,</l>
+               <l>And to your <hi>Country's Honour</hi> prove you Juſt.</l>
+            </lg>
+            <lg>
+               <l>From hence all Enmity will dye and ceaſe,</l>
+               <l>And Amity ſucceed the Joys of <hi>Peace:</hi>
+               </l>
+               <l>Snarling <hi>Brown</hi>'s Satyr will to Flames ſubmit,</l>
+               <l>And Railing paſs no more for Standard-wit:</l>
+               <l>No <hi>Guild-hall</hi> Faction to moleſt the <hi>State,</hi>
+               </l>
+               <l>All envious <hi>Fops</hi> will find no Cauſe to <hi>Hate,</hi>
+               </l>
+               <l>No Wagers laid to ruin half the <hi>State:</hi>
+               </l>
+               <l>All of one <hi>Mind,</hi> our Country's good Advance,</l>
+               <l>And leave Succeſſion unto TIME and CHANCE.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
